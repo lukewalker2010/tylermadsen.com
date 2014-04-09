@@ -1,2 +1,4 @@
 .DS_Store
 config/
+bower_components/
+sftp-config.json

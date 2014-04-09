@@ -1,0 +1,6 @@
+{
+  "name": "tylermadsen.com",
+  "dependencies": {
+    "words": "https://github.com/tylermadsen/words.git#v2.0.0"
+  }
+}
