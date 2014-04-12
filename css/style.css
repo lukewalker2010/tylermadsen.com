@@ -1,0 +1,32 @@
+
+html,
+body {
+  overflow: auto;
+}
+body {
+  font-size: 16px;
+  line-height: 1.25em;
+  padding: 20px;
+}
+main {
+  padding-top: 38px;
+}
+h1, h2 {
+  font-weight: bold;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
+h1,
+h2,
+p,
+ul {
+  margin-top: 1.25em;
+  line-height: 1.25em;
+}
+nav .cancel {
+  margin-left: 0;
+}
